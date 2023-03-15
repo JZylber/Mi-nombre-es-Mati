@@ -13,8 +13,8 @@ Mati es un famoso coordinador de viajes de egresados. Para derrotar a la compete
 ## Repositorio y entregas
 
 - **5A:** https://classroom.github.com/a/-oTwkgZH
-- **5B:** 
-- **5C:** 
-- **5D:**
-- **5E:**
-- **5F:**   
+- **5B:** https://classroom.github.com/a/IDzt9QY4
+- **5C:** https://classroom.github.com/a/jSkUPPdq
+- **5D:** https://classroom.github.com/a/QBwsERFV
+- **5E:** https://classroom.github.com/a/kyTLeJeU
+- **5F:** https://classroom.github.com/a/MTohGAuE
