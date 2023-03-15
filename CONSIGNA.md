@@ -1,5 +1,3 @@
-<img src="img/Mati%20Banner.png">
-
 # Mi nombre es Mati (y me dicen Mati)
 
 ## Historia
